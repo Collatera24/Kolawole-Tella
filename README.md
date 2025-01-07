@@ -1,1 +1,1 @@
-# Kolawole-Tella
+Hi! I'm Kolawole Tella. I'm a passionate software developer with a strong foundation in coding, problem-solving, and creating efficient, scalable solutions. I have experience working with a variety of programming languages and frameworks, with a focus on delivering high-quality software that meets both user needs and business goals. Driven by a love for continuous learning, I stay up-to-date with industry trends and always strive to improve my skills.
